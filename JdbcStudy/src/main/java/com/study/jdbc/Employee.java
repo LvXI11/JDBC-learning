@@ -31,7 +31,7 @@ public class Employee {
         return salary;
     }
 
-    public int getDepratmentId() {
+    public int getDepartmentId() {
         return depratmentId;
     }
 
