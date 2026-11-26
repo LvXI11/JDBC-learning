@@ -10,3 +10,5 @@ target/
 !/.gitignore
 .dat/
 .txt/
+.xml/
+.properties/

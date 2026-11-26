@@ -7,6 +7,9 @@ public class Employee {
     private double salary;
     private int departmentId;
 
+    public Employee() {
+    }
+
     public Employee(int id, String firstName, String lastName, double salary, int departmentId) {
         this.id = id;
         this.firstName = firstName;
